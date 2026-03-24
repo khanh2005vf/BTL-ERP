@@ -116,7 +116,7 @@ sudo apt install -y python3 python3-pip python3-dev postgresql postgresql-contri
 
 **Bước 3**: Clone project
 ```bash
-sudo git clone https://github.com/VnhPhn/TTDN-16-02-N4
+git clone https://github.com/khanh2005vf/khanh2005vf
 cd CNTT-17-11-N13
 ```
 
