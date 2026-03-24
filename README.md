@@ -32,7 +32,7 @@ Thay vì sử dụng các tệp Excel rời rạc hay hệ thống thủ công, 
 ## 🖼️ 2. Poster
 <div align="center">
 
-![Poster hệ thống](./images/poster.jpg)
+![Poster hệ thống](./images/poster.png)
 
 <p> 
 <a href="./images/poster.pdf">Nhấn vô đây để xem chi tiết Poster (PDF)</a>
@@ -92,11 +92,11 @@ Thay vì sử dụng các tệp Excel rời rạc hay hệ thống thủ công, 
 ## 🖼️ 5. Giao diện chính
 <div align="center">
 
-![Giao diện Nhân sự](./images/nhan_su.png)
+![Giao diện Nhân sự](./images/nhan su.png)
 
-![Giao diện Khách hàng](./images/bieu_do.png)
+![Giao diện Khách hàng](./images/khach hang.png)
 
-![Giao diện Công việc / Dashboard](./images/cong_viec.png)
+![Giao diện Công việc / Dashboard](./images/cong viec.png)
 
 </div>
 
@@ -116,9 +116,8 @@ sudo apt install -y python3 python3-pip python3-dev postgresql postgresql-contri
 
 **Bước 3**: Clone project
 ```bash
-cd /opt
 sudo git clone https://github.com/VnhPhn/TTDN-16-02-N4
-cd odoo-fitdnu-B
+cd CNTT-17-11-N13
 ```
 
 **Bước 4**: Tạo virtual environment
