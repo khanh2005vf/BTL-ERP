@@ -92,11 +92,11 @@ Thay vì sử dụng các tệp Excel rời rạc hay hệ thống thủ công, 
 ## 🖼️ 5. Giao diện chính
 <div align="center">
 
-![Giao diện Nhân sự](./images/nhan su.png)
+![Giao diện Nhân sự](./images/nhan_su.png)
 
-![Giao diện Khách hàng](./images/khach hang.png)
+![Giao diện Khách hàng](./images/khach_hang.png)
 
-![Giao diện Công việc / Dashboard](./images/cong viec.png)
+![Giao diện Công việc / Dashboard](./images/cong_viec.png)
 
 </div>
 
@@ -157,16 +157,6 @@ python3 odoo-bin.py -c odoo.conf
 
 **Bước 9**: Truy cập Odoo
 - Mở trình duyệt: `http://localhost:8069`
-- Tài khoản mặc định: `admin` / `admin`
-
-## 📞 7. Support & Liên Hệ
-
-- 📧 Email: [vinh036648@gmail.com]
-- 🌐 Website: [https://dainam.edu.vn]
-
-<div align="center">
-
-Made with  by VinhPhan, VuPhu, KhanhXG
 
 </div>
     
