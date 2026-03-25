@@ -34,10 +34,6 @@ Thay vì sử dụng các tệp Excel rời rạc hay hệ thống thủ công, 
 
 ![Poster hệ thống](./images/poster.png)
 
-<p> 
-<a href="./images/poster.pdf">Nhấn vô đây để xem chi tiết Poster (PDF)</a>
-</p>
-
 </div>
 
 ## 🔧 3. Các công nghệ được sử dụng
