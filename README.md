@@ -32,7 +32,7 @@ Thay vì sử dụng các tệp Excel rời rạc hay hệ thống thủ công, 
 ## 🖼️ 2. Poster
 <div align="center">
 
-![Poster hệ thống](./images/poster.png)
+![Poster hệ thống](./images/poster1.png)
 
 </div>
 
